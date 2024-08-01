@@ -4,6 +4,6 @@
 
 int main()
 {
-    printf("hello world\n");
+    printf("hello world\nss");
     exit(0);
 }
